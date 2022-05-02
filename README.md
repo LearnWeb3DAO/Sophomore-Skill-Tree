@@ -8,28 +8,30 @@ All levels are open to you. You are encouraged to complete as many levels as you
 
 # Levels
 
-[Level 0 (What is Gas)](https://github.com/LearnWeb3DAO/What-is-Gas)
+[Level 0 (Just Enough React (and Next.js))](https://github.com/LearnWeb3DAO/Just-Enough-React-And-Nextjs)
 
-[Level 1 (What is Mining)](https://github.com/LearnWeb3DAO/What-is-Mining)
+[Level 1 (What is Gas)](https://github.com/LearnWeb3DAO/What-is-Gas)
 
-[Level 2 (Proof of Work)](https://github.com/LearnWeb3DAO/What-is-Proof-of-Work)
+[Level 2 (What is Mining)](https://github.com/LearnWeb3DAO/What-is-Mining)
 
-[Level 3 (Ethereum Virtual Machine)](https://github.com/LearnWeb3DAO/Ethereum-Virtual-Machine)
+[Level 3 (Proof of Work)](https://github.com/LearnWeb3DAO/What-is-Proof-of-Work)
 
-[Level 4 (Advanced Solidity)](https://github.com/LearnWeb3DAO/Advanced-Solidity-Topics)
+[Level 4 (Ethereum Virtual Machine)](https://github.com/LearnWeb3DAO/Ethereum-Virtual-Machine)
 
-[Level 5 (Mixed Topics)](https://github.com/LearnWeb3DAO/Sophomore-Mixed-Topics)
+[Level 5 (Advanced Solidity)](https://github.com/LearnWeb3DAO/Advanced-Solidity-Topics)
 
-[Level 6 (Whitelist dApp)](https://github.com/LearnWeb3DAO/Whitelist-Dapp)
+[Level 6 (Mixed Topics)](https://github.com/LearnWeb3DAO/Sophomore-Mixed-Topics)
 
-[Level 7 (NFT Collection)](https://github.com/LearnWeb3DAO/NFT-Collection)
+[Level 7 (Whitelist dApp)](https://github.com/LearnWeb3DAO/Whitelist-Dapp)
 
-[Level 8 (Initial Coin Offering)](https://github.com/LearnWeb3DAO/ICO)
+[Level 8 (NFT Collection)](https://github.com/LearnWeb3DAO/NFT-Collection)
 
-[Level 9 (DAO)](https://github.com/LearnWeb3DAO/Building-a-DAO)
+[Level 9 (Initial Coin Offering)](https://github.com/LearnWeb3DAO/ICO)
 
-[Level 10 (DeFi Exchange Theory)](https://github.com/LearnWeb3DAO/Defi-Exchange-Theory)
+[Level 10 (DAO)](https://github.com/LearnWeb3DAO/Building-a-DAO)
 
-[Level 11 (Build a DEX)](https://github.com/LearnWeb3DAO/Defi-Exchange)
+[Level 11 (DeFi Exchange Theory)](https://github.com/LearnWeb3DAO/Defi-Exchange-Theory)
+
+[Level 12 (Build a DEX)](https://github.com/LearnWeb3DAO/Defi-Exchange)
 
 **Graduation** 🥳
